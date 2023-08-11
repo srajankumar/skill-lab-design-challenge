@@ -68,7 +68,7 @@ const Home = () => {
                 <h5 className="card-title">C Programming</h5>
                 <p className="card-text">Learn C programming from basics</p>
                 <a href="#" className="btn btn-primary">
-                  Enroll
+                  Enroll Now
                 </a>
               </div>
             </div>
@@ -83,7 +83,7 @@ const Home = () => {
                   Explore the power of C++ programming language
                 </p>
                 <a href="#" className="btn btn-primary">
-                  Go somewhere
+                  Enroll Now
                 </a>
               </div>
             </div>
@@ -98,7 +98,7 @@ const Home = () => {
                   Master Java programming for building applications
                 </p>
                 <a href="#" className="btn btn-primary">
-                  Go somewhere
+                  Enroll Now
                 </a>
               </div>
             </div>
@@ -119,7 +119,7 @@ const Home = () => {
                   Dive into the world of Python programming
                 </p>
                 <a href="#" className="btn btn-primary">
-                  Go somewhere
+                  Enroll Now
                 </a>
               </div>
             </div>
@@ -138,7 +138,7 @@ const Home = () => {
                   Learn React for building interactive web applications
                 </p>
                 <a href="#" className="btn btn-primary">
-                  Go somewhere
+                  Enroll Now
                 </a>
               </div>
             </div>
@@ -153,7 +153,7 @@ const Home = () => {
                   Discover the fundamentals of JavaScript
                 </p>
                 <a href="#" className="btn btn-primary">
-                  Go somewhere
+                  Enroll Now
                 </a>
               </div>
             </div>
