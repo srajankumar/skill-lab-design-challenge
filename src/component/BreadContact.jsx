@@ -9,8 +9,8 @@ const BreadCrumb = () => {
           <li className="text-danger breadcrumb-item text-gray">
             <Link to="/">Home</Link>
           </li>
-          <li className="breadcrumb-item text-gray">
-            <Link to="/course">Course</Link>
+          <li className="breadcrumb-item active" aria-current="page">
+            <Link to="/contact">Contact</Link>
           </li>
         </ol>
       </nav>
